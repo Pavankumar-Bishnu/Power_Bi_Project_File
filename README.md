@@ -4,7 +4,7 @@ Interactive dashboard creation - using Power BI
 
 This dataset (or) project provides a comprehensive overview of potential loan applicants' profiles, specifically tailored for the Indian demographic. It encapsulates a range of features, from basic demographics to financial details, that can be instrumental in assessing the creditworthiness of an individual.
 
-> **Dataset Used :** <a href="https://github.com/Pavankumar-Bishnu/Power-Bi-Project/blob/main/Credit_Data.csv"> Click Now </a>
+> **Dataset Used :** <a href="https://github.com/Pavankumar-Bishnu/Power_Bi_Project_File/blob/main/Credit_Data.csv"> Click Now </a>
 
   - Total Records            : 179,042
   - Total Features (Columns) : 15
@@ -34,7 +34,7 @@ This dataset (or) project provides a comprehensive overview of potential loan ap
 - The average profile score is 77.4, indicating varied but relatively high trustworthiness across customers.
 - Customer Base              :Majority are new customers (~62%), which may require stricter risk evaluation.
   
-![Customer Demographics Dashboard.png](https://github.com/Pavankumar-Bishnu/Power_Bi_Project_1/blob/main/Cust_DSBD.png)
+![Customer Demographics Dashboard.png](https://github.com/Pavankumar-Bishnu/Power_Bi_Project_1/blob/main/CD_DSBD.png)
 
 2 **Financial Profile insights :**      
 
@@ -52,9 +52,9 @@ This dataset (or) project provides a comprehensive overview of potential loan ap
 - Loan Patterns              :Loan amounts mostly cap at ₹1.5 Lakh.
 - Average tenure of 11 years suggests mid-to-long-term borrowings.
 
-- Credit & Loan Insights <a href="https://github.com/Pavankumar-Bishnu/Power_Bi_Project_1/blob/main/CL%20DSBD.png"> Dashboard PNG </a>
+- Credit & Loan Insights <a href="https://github.com/Pavankumar-Bishnu/Power_Bi_Project_File/blob/main/CL_DSBD.png"> Dashboard PNG </a>
   
-![Income & Risk Analysis](https://github.com/Pavankumar-Bishnu/Power_Bi_Project_1/blob/main/IR%20DSBD.png)
+![Income & Risk Analysis](https://github.com/Pavankumar-Bishnu/Power_Bi_Project_File/blob/main/IR_DSBD.png)
 
 3 **Statistical Insights :**   
   - Age                       : Ranges from 18 to 70 years (avg 44).
@@ -67,7 +67,7 @@ This dataset (or) project provides a comprehensive overview of potential loan ap
   - LTV Ratio                 : 40–95% (avg 72%).
   - Profile Score             : 0–100 (avg 77).
     
-> **Dashboard Interaction File** : <a href="https://github.com/Pavankumar-Bishnu/Power_Bi_Project_1/blob/main/Credit_Data.pbix"> View </a>
+> **Dashboard Interaction File** : <a href="https://github.com/Pavankumar-Bishnu/Power_Bi_Project_File/blob/main/Credit_Data.pbix"> View </a>
 
 ## **Final Conclusion:**
 - Credit Score Distribution   : Most customers fall between 450–700, indicating an average-to-moderate risk borrower pool.
